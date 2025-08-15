@@ -1223,6 +1223,7 @@ Main3Tab:CreateButton({
     Name = "Infinite Yield",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+
     end
 })
 
@@ -1230,6 +1231,7 @@ Main3Tab:CreateButton({
     Name = "Nameless Admin",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))()
+
     end
 })
 
@@ -1237,6 +1239,7 @@ Main3Tab:CreateButton({
     Name = "Reviz Admin",
     Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/ibFPdiF7"))()
+
     end
 })
 
@@ -1244,6 +1247,7 @@ Main3Tab:CreateButton({
     Name = "Cmd-X",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"))()
+
     end
 })
 
@@ -1251,6 +1255,7 @@ Main3Tab:CreateButton({
     Name = "Legs Admin",
     Callback = function()
        loadstring(game:HttpGet("https://raw.githubusercontent.com/leg1337/legadmv2/main/legadminv2.lua"))()
+
     end
 })
 
@@ -1258,6 +1263,7 @@ Main3Tab:CreateButton({
     Name = "Kohls Admin",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Games/Kohls%20Admin%20House/DarkKohls/GUI.lua"))()
+
     end
 })
 
@@ -1265,6 +1271,7 @@ Main3Tab:CreateButton({
     Name = "Brick Admin",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/MariyaFurmanova/Library/main/un_AdminGUI"))()
+
     end
 })
 
@@ -1272,6 +1279,7 @@ Main3Tab:CreateButton({
     Name = "Quirky Cmds (Some Games)",
     Callback = function()
         loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-QuirkyCMD-FE-admin-8667"))()
+
     end
 })
 
@@ -1279,6 +1287,7 @@ Main3Tab:CreateButton({
     Name = "Gaze Admin (Free Admin)",
     Callback = function()
         loadstring(game:HttpGet("https://rawscripts.net/raw/FREE-ADMIN-Gaze-Admin-Abuser-V2-38651"))()
+
     end
 })
 
@@ -1286,6 +1295,7 @@ Main3Tab:CreateButton({
     Name = "Fates Admin",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))()
+
     end
 })
 
@@ -1293,6 +1303,7 @@ Main3Tab:CreateButton({
     Name = "Console Line Admin",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/NotAtomz/Atom-Scripts/refs/heads/main/ConsoleLine"))()
+
     end
 })
 
@@ -1300,6 +1311,7 @@ Main3Tab:CreateButton({
     Name = "Dhelirium Admin (Use ; )",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Dhelann/Dhelirium/refs/heads/main/source.lua"))()
+
     end
 })
 
@@ -1307,6 +1319,7 @@ Main3Tab:CreateButton({
     Name = "Ak Admin",
     Callback = function()
         loadstring(game:HttpGet("https://angelical.me/ak.lua"))()
+
     end
 })
 
@@ -1395,6 +1408,7 @@ Main3Tab:CreateButton({
     Name = "Bido Skins Hub V7",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.7"))()
+
     end
 })
 
@@ -1402,6 +1416,7 @@ Main3Tab:CreateButton({
     Name = "Bido Skins Hub V8",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.8"))()
+
     end
 })
 
@@ -1409,6 +1424,7 @@ Main3Tab:CreateButton({
     Name = "Bido Skins Hub V9",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.9"))()
+
     end
 })
 
@@ -1416,6 +1432,7 @@ Main3Tab:CreateButton({
     Name = "Sky Hub",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt"))()
+
     end
 })
 
@@ -1423,6 +1440,7 @@ Main3Tab:CreateButton({
     Name = "Simple Hub",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/GearV4/Simple-Hub-X-Gear-SSX.lua/main/Gear%20SSX%20X%20Simple%20Hub"))()
+
     end
 })
 
@@ -1741,6 +1759,7 @@ Main3Tab:CreateButton({
     Name = "Common Hub V1",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Niviana1/Personal-exploit-/main/Gui.lua"))()
+
     end
 })
 
@@ -1748,6 +1767,7 @@ Main3Tab:CreateButton({
     Name = "Game Hub V3",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+
     end
 })
 
@@ -1755,6 +1775,7 @@ Main3Tab:CreateButton({
     Name = "Game Hub V4",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+
     end
 })
 
@@ -1762,6 +1783,7 @@ Main3Tab:CreateButton({
     Name = "Game Hub V6",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+
     end
 })
 
@@ -1769,6 +1791,7 @@ Main3Tab:CreateButton({
     Name = "Gigachad Hub V3",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OWJBWKQLAISH/GigaChad-Hub/main/Gigachad%20Hub%20V3"))()
+
     end
 })
 
@@ -1776,6 +1799,7 @@ Main3Tab:CreateButton({
     Name = "Gigachad Hub V4",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OWJBWKQLAISH/GigaChad-Hub/main/Gigachad%20Hub%20V4"))()
+
     end
 })
 
@@ -1783,6 +1807,7 @@ Main3Tab:CreateButton({
     Name = "Gigachad Hub V5",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OWJBWKQLAISH/GigaChad-Hub/main/Protected_3038811338432694.lua.txt"))()
+
     end
 })
 
@@ -1790,6 +1815,7 @@ Main3Tab:CreateButton({
     Name = "Gigachad Hub V6",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/LolPrivate/Side/main/Moonsec%20V3"))()
+
     end
 })
 
@@ -1797,6 +1823,7 @@ Main3Tab:CreateButton({
     Name = "Gigachad Hub V7",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/LolPrivate/Side/main/Gigachad%20Hub%20V7.lua"))()
+
     end
 })
 
@@ -1804,6 +1831,7 @@ Main3Tab:CreateButton({
     Name = "Shakars Hub V1",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/moonsecV3/main/bido.ty"))()
+
     end
 })
 
@@ -1812,6 +1840,7 @@ Main3Tab:CreateButton({
     Callback = function()
       
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Universal-Shakars/main/Hub%20Protected!"))()
+
     end
 })
 
@@ -1819,6 +1848,7 @@ Main3Tab:CreateButton({
     Name = "Shakars Hub V3",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/USH.P/main/rotected"))()
+
     end
 })
 
@@ -1826,6 +1856,7 @@ Main3Tab:CreateButton({
     Name = "Many Hub",
     Callback = function()
         loadstring(game:HttpGet("https://paste.myconan.net/498978.txt"))()
+
     end
 })
 
@@ -1833,6 +1864,7 @@ Main3Tab:CreateButton({
     Name = "Multi Hub V2",
     Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/EZ8CxDGr"))()
+
     end
 })
 
@@ -1841,6 +1873,7 @@ Main3Tab:CreateButton({
     Callback = function()
         local src = game:GetObjects("rbxassetid://1468845733")[1].Source
         assert(loadstring(src))()
+
     end
 })
 
@@ -1848,6 +1881,7 @@ Main3Tab:CreateButton({
     Name = "Multi Hub V4",
     Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/YVE4njap"))()
+
     end
 })
 
@@ -1855,6 +1889,7 @@ Main3Tab:CreateButton({
     Name = "Express Hub",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Theyfwdan/Theyfwdan/refs/heads/main/ExpressHubPaidVersion"))()
+
     end
 })
 
@@ -1862,6 +1897,7 @@ Main3Tab:CreateButton({
     Name = "Express Hub V5",
     Callback = function()
         loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d8824b23a4d9f2e0d62b4e69397d206b.lua"))()
+
     end
 })
 
@@ -1894,6 +1930,7 @@ Main4Tab:CreateButton({
     Name = "Sword 🗡️",
     Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/r7TP8eqw"))()
+
     end
 })
 
@@ -1903,6 +1940,7 @@ Main4Tab:CreateButton({
         loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Grab-knife-v4-24753"))()
 
      loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt"))()
+
     end
 })
 
@@ -1910,6 +1948,7 @@ Main4Tab:CreateButton({
     Name = "Tool Giver 🧰",
     Callback = function()
         loadstring(game:HttpGet("https://pastefy.app/qpbQo0lr/raw"))()
+
     end
 })
 
@@ -1917,20 +1956,24 @@ Main4Tab:CreateButton({
     Name = "Gear Giver 🎮",
     Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/Dhgnt7hi"))()
+
     end
 })
 
 Main4Tab:CreateButton({
     Name = "Get All Gears 🧲",
     Callback = function()
+
         loadstring(game:HttpGet("https://pastefy.app/VYIAk3o1/raw"))()
+
     end
 })
 
 Main4Tab:CreateButton({
     Name = "Gear Giver 2 ⚙️",
     Callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/AZVi2tuK")
+        loadstring(game:HttpGet("https://pastebin.com/raw/AZVi2tuK"))()
+
     end
 })
 
