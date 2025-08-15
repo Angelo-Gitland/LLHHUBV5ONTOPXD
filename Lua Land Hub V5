@@ -39,7 +39,7 @@ MainTab:CreateButton({
 MainTab:CreateButton({
     Name = "Acid Escape",
     Callback = function()
-        loadScript("https://pastefy.app/8lqvBFdm/raw")()
+        loadScript("https://pastefy.app/8lqvBFdm/raw")
     end
 })
 
