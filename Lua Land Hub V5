@@ -37,6 +37,20 @@ MainTab:CreateButton({
 })
 
 MainTab:CreateButton({
+    Name = "Acid Escape",
+    Callback = function()
+        loadScript("https://pastefy.app/8lqvBFdm/raw"))()
+    end
+})
+
+MainTab:CreateButton({
+    Name = "BloxFruit (VelleriusV4)",
+    Callback = function()
+        loadScript("https://raw.githubusercontent.com/Corrupt2625/pjv/main/000000018.lua")
+    end
+})
+
+MainTab:CreateButton({
     Name = "Murderer Vs Sheriff Duels",
     Callback = function()
         loadScript("https://raw.githubusercontent.com/alan11ago/Hub/main/ImpHub.lua")
@@ -71,6 +85,13 @@ MainTab:CreateButton({
 })
 
 MainTab:CreateButton({
+    Name = "Sakura Canyon",
+    Callback = function()
+        loadScript("https://gist.githubusercontent.com/Angelo-Gitland/c55c3d95bdb1d7cc698300f94b8a77dc/raw/3ab935927d8c1b77e07c3e91ffbba4696e5bc73e/Sakura%2520Canyon%2520Obby%2520King%2520Script"))()
+    end
+})
+
+MainTab:CreateButton({
     Name = "Tower of Jump (FREE HALOS)",
     Callback = function()
         loadScript("https://raw.githubusercontent.com/insanedude59/TowerOfJump/main/OpenSource")
@@ -83,6 +104,7 @@ MainTab:CreateButton({
         loadScript("https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua")
     end
 })
+
 
 MainTab:CreateButton({
     Name = "Build a Boat for Treasure",
@@ -112,6 +134,7 @@ MainTab:CreateButton({
     end
 })
 
+
 MainTab:CreateButton({
     Name = "Gacha Online RP",
     Callback = function()
@@ -122,9 +145,10 @@ MainTab:CreateButton({
 MainTab:CreateButton({
     Name = "Secret Killer",
     Callback = function()
-        loadScript("https://pastebin.com/raw/m6MqN4ay")
+        loadstring(game:HttpGet("https://gist.githubusercontent.com/Angelo-Gitland/07bc29655a4e7c884426aab3deedf583/raw/39365d494897e00561a544a611394bcfc4c42282/Lua%2520Land%2520Hub%2520Secret%2520Killer%25F0%259F%2591%258D"))()
     end
 })
+
 
 MainTab:CreateButton({
     Name = "Natural Disaster Survival (WORKS IN THIS GAME)🌪️",
@@ -1123,6 +1147,33 @@ Main2Tab:CreateButton({
 })
 
 Main2Tab:CreateButton({
+    Name = "Speed Changer Gui",
+    Callback = function()
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Angelo-Gitland/25481b2953cc51b0dd7d8339c53f5c1d/raw/89fa7652f12d35a93b0d5303740086bc66ed6a1d/Lua%2520Land%2520Gui%2520Speed%2520Changer"))()
+
+   end
+})
+
+Main2Tab:CreateButton({
+    Name = "Gravity Changer Gui",
+    Callback = function()
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Angelo-Gitland/0c3598c755723f355930ca7f50f3b92e/raw/a842122006f51c411d1265d7b9fb0a49bbb00fcf/Lua%2520Land%2520Hub%2520%257C%2520Gravity%2520Changer%25F0%259F%25AB%25B0"))()
+
+   end
+})
+
+Main2Tab:CreateButton({
+    Name = "Join & Leave Logger",
+    Callback = function()
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Angelo-Gitland/7e32e5df7da6ea2a4aa8c72f57f577cc/raw/370c65f9c8307baab057fb/%F0%9F%8F%9D%EF%B8%8FLua%2520Land%2520Gui%2520%257C%2520Join%2520%26%2520Leave%2520Logger%F0%9F%8F%9D%EF%B8%8F"))()
+
+   end
+})
+
+Main2Tab:CreateButton({
     Name = "Yeet Gui",
     Callback = function()
 
@@ -1150,7 +1201,7 @@ loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-spectate-GU
 })
 
 Main2Tab:CreateButton({
-    Name = "Esp Gui",
+    Name = "Esp All",
     Callback = function()
 
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-ESP-any-game-47981"))()
@@ -1996,14 +2047,14 @@ Raw By: ❣️ Angelo's Scripts (YOUTUBE) ❣️
 🏝️ Join Our Community 🏝️  
 Click the button below to copy the server link and connect with us!
 
-🔗 Discord Link: [https://discord.gg/RxcX9DExUE]
+🔗 Discord Link: [https://discord.gg/SGX9zqk3e3]
 ]]
 })
 
 CreditsTab:CreateButton({
     Name = "🏝️ COPY DISCORD LINK 🏝️",
     Callback = function()
-        setclipboard("https://discord.gg/RxcX9DExUE")
+        setclipboard("https://discord.gg/SGX9zqk3e3")
         Rayfield:Notify({
             Title = "📋 Copied!",
             Content = "🏝️COPIED TO CLIPBOARD!🏝️",
