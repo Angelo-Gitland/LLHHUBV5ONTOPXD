@@ -7,7 +7,7 @@ local Player = game.Players.LocalPlayer
 -- Made By Angelo Official🎮
 local Window = Rayfield:CreateWindow({
     Name = "🏝️Lua Land Hub | V5🏝️",
-    LoadingTitle = "Make Roblox Easier!😼",
+    LoadingTitle = "Make Roblox Easier!",
     LoadingSubtitle = "By: ❣️Angelo's Scripts (YOUTUBE)❣️",
     ConfigurationSaving = { Enabled = false },
     KeySystem = false
@@ -23,7 +23,7 @@ local function loadScript(url)
     end)
     if not ok then
         Rayfield:Notify({
-            Title = "Script Error",
+            Title = "Error❗ Please Report To Us In Tab Credits",
             Content = tostring(err),
             Duration = 6
         })
@@ -33,20 +33,6 @@ MainTab:CreateButton({
     Name = "Bloxburg",
     Callback = function()
         loadScript("https://raw.githubusercontent.com/JonnyCheeser/rbw4/main/JonnyCheeseHub")
-    end
-})
-
-MainTab:CreateButton({
-    Name = "Acid Escape",
-    Callback = function()
-        loadScript("https://pastefy.app/8lqvBFdm/raw")
-    end
-})
-
-MainTab:CreateButton({
-    Name = "BloxFruit (VelleriusV4)",
-    Callback = function()
-        loadScript("https://raw.githubusercontent.com/Corrupt2625/pjv/main/000000018.lua")
     end
 })
 
@@ -81,13 +67,6 @@ MainTab:CreateButton({
     Name = "Climb & Jump Tower",
     Callback = function()
         loadScript("https://raw.githubusercontent.com/gumanba/Scripts/main/ClimbandJump")
-    end
-})
-
-MainTab:CreateButton({
-    Name = "Sakura Canyon",
-    Callback = function()
-        loadScript("https://gist.githubusercontent.com/Angelo-Gitland/c55c3d95bdb1d7cc698300f94b8a77dc/raw/3ab935927d8c1b77e07c3e91ffbba4696e5bc73e/Sakura%2520Canyon%2520Obby%2520King%2520Script")
     end
 })
 
@@ -138,13 +117,6 @@ MainTab:CreateButton({
     Name = "Gacha Online RP",
     Callback = function()
         loadScript("https://raw.githubusercontent.com/GitHubTestei/GACHA-ONLINE-GUI/main/Gacha%20Online%20Troll%20GUI%20v1.0.0")
-    end
-})
-
-MainTab:CreateButton({
-    Name = "Secret Killer",
-    Callback = function()
-        loadstring(game:HttpGet("https://gist.githubusercontent.com/Angelo-Gitland/07bc29655a4e7c884426aab3deedf583/raw/39365d494897e00561a544a611394bcfc4c42282/Lua%2520Land%2520Hub%2520Secret%2520Killer%25F0%259F%2591%258D"))()
     end
 })
 
